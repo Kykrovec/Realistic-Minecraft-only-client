@@ -3,7 +3,7 @@ My project for Realistic minecraft, with you can play on minecraft servers
 
 Video: https://www.youtube.com/watch?v=VHnDYcHHk-Q
 
-Minecraft version: 1.19.2 \n
+Minecraft version: 1.19.2
 Running on Fabric: 1.19.2
 JVM Argument: 
 -Xmx25G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
